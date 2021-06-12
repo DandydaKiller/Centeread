@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997994673901",
+    "project_id": "centreadfp-45766",
+    "storage_bucket": "centreadfp-45766.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997994673901:android:09110992e54b53d3d3bee4",
+        "android_client_info": {
+          "package_name": "com.example.centread"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997994673901-ce0plojdej7at1tn3fblfedrn5c85lqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqcbEJx1DIlJpvsJobPCGB62qkhnGtaOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997994673901-ce0plojdej7at1tn3fblfedrn5c85lqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
